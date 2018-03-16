@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+  margin-top: 50px;
+  background-color: #f0f5f8;
+}
+
+a {
+    color: #adadad;
+}
+a:hover {
+    background: #21a0e5;
+    text-decoration: none;
+    outline: 0;
+}
+
+.head {
+    height: 89px;
+    background-image: url("../img/logo.png");
+    background-repeat: no-repeat;
+    background-position-x: 37px;
+    background-position-y: 5px;
+    background-color: white;
+
+}
+
+.head_1 {
+    text-align: right;
+    padding-right: 5%;
+    background-color: white;
+}
+
+.game  {
+    margin-top: 40px;
+    margin-left: 110px;
+    color: #554fb3;
+    position: fixed;
+}
+
+
+
+.footer {
+    background-image: url("../img/girl.jpg");
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 100%;
+    padding-top: 8%;
+    padding-bottom: 2%;
+}
+
+.mystyle {
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+
+.head_menu h4 {
+    color: #554fb3
+
+}
+
+.head_menu {
+    color: #464d83;
+
+
+}
+
+
+.column  {
+
+    color: #66ceb3;
+    font-size: 12px;
+    margin-top: 20px;
+
+
+}
+
+
+.column_1 {
+
+    font-size: 26px;
+    color: black;
+    margin-bottom: 15px;
+
+}
+
+.column_2 {
+
+    color: #7d7c82;
+    font-size: 16px;
+    margin-top: 16px;
+
+}
+
+.column_3 {
+
+    font-size: 12px;
+
+}
+
+.serch {
+    width: 30px;
+    height: 30px;
+}
+
+.world {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-left: 70px;
+
+}
+
+.down {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+
+
+
